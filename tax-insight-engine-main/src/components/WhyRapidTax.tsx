@@ -13,7 +13,7 @@ const WhyRapidTax = () => (
   <section className="py-16 bg-background">
     <div className="container mx-auto px-4">
       <h2 className="font-heading text-3xl md:text-4xl font-bold text-center text-foreground mb-12">
-        Why <span className="text-secondary">RapidTax</span>?
+        Why <span className="text-secondary">SMART GST AND INCOME TAX SOLUTIONS</span>?
       </h2>
 
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
